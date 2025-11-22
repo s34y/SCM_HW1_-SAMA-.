@@ -1,0 +1,4 @@
+configuration management (CM) is very important in software development.
+It avoids disputes among team members, enables the duplication of any revision of the program, and assists in determining who made every modification and why.
+CM helps teams to rapidly recover from mistakes by providing stable versions, therefore lowering integration issues and supporting trustworthy releases.
+It generally increases traceability, quality, cooperation, and the software development cycle’s stability.
